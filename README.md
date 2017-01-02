@@ -25,3 +25,6 @@ via `script` and then `grep rm` on resulting file, and pipe it to `/bin/sh`.
 Target solution should probably be to preview the files, or make a shell
 script with `rm` commands.
 
+# TODO
+
+Change to `xxhash`
