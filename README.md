@@ -27,4 +27,5 @@ script with `rm` commands.
 
 # TODO
 
-Change to `xxhash`
+- Change to `xxhash`
+- Explore: https://github.com/jedisct1/libpuzzle
