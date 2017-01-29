@@ -127,7 +127,7 @@ func handleDuplicate(path1 string, path2 string) {
 		path = path2
 	}
 	if (*flagRemove) {
-		fmt.Printf("rm %s\n", path)
+		fmt.Printf("rm \"%s\"\n", path)
 	}
 }
 
